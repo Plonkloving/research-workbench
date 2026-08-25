@@ -1,0 +1,12 @@
+# Local research data and screenshots
+/科研工作台数据/
+
+# Python
+__pycache__/
+*.pyc
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
